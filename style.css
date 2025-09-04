@@ -14,7 +14,7 @@ input{
     width: 185.5px;
     height: 30px;
     border-radius: 20px;
-    background-color:rgb(124, 149, 164); 
+    background-color:rgb(185, 194, 200); 
     color: black;
 }
 button{
@@ -50,7 +50,7 @@ table{
     margin-bottom: 100px;
     background: scroll;
     position: relative;
-    background-color:rgb(5, 89, 117);
+    background-color:rgb(94, 149, 168);
     padding: 2px;
 }
 .som{
