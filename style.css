@@ -21,8 +21,8 @@ button{
     margin: 0;
     padding: 0;
     border-radius: 15px;
-    color: black;
-    background-color:rosybrown;
+    color:b;
+    background-color:rgb(209, 199, 211);
 }
 th,td{
     text-align: center;
@@ -32,7 +32,7 @@ th,td{
     height: '70%';
 }
 button:hover{
-    background-color:darkred;
+    background-color:whitesmoke;
     
 }
 
